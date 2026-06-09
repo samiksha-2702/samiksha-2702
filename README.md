@@ -172,25 +172,7 @@ Actively committing — follow along for updates.
 
 ---
 
-## `>>> github_stats`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=samiksha-2702&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-2702&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=samiksha-2702&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samiksha-2702&theme=react-dark&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&hide_border=true" width="95%"/>
-
-</div>
-
----
 
 ## `>>> achievements`
 
