@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:38bdf8&height=200&section=header&text=Samiksha%20Apake&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20%C2%B7%20Django%20%C2%B7%20Backend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Python+%26+Django+Backend+Developer;REST+API+%26+DRF+Specialist;Gemini+AI+Integration+%7C+Real-World+Apps;MCA+2026+%7C+Seeking+Backend+Opportunities;Building+Scalable+Web+Platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Python+%26+Django+Backend+Developer;REST+API+%26+DRF+Specialist;FastAPI+%7C+Docker+%7C+Redis;MCA+2026+%7C+Seeking+Backend+Opportunities;Building+Scalable+Web+Platforms)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,6 +10,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-samiksha--2702-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiksha-2702)
 [![Gmail](https://img.shields.io/badge/Gmail-samikshaapake@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samikshaapake@gmail.com)
 [![Location](https://img.shields.io/badge/Pune%2C_India-Open_to_Opportunities-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/samiksha-2702)
+
+![Profile Views](https://komarev.com/ghpvc/?username=samiksha-2702&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -37,11 +39,11 @@ class SamikshaApake:
     # ── Currently Building ────────────────────────────────────────────
     def current_focus(self):
         return {
-            "🤖 AI Integration"  : "Gemini API for interview coaching & chatbots",
-            "📦 REST APIs"       : "DRF-powered APIs with JWT authentication",
-            "💳 Payments"        : "Razorpay gateway integration in e-commerce",
-            "☁️ Deployment"      : "Shipping apps on Railway / Render",
-            "📊 Algorithms"      : "Kahn's topological sort for learning paths",
+            "📦 REST APIs"   : "DRF-powered APIs with JWT authentication",
+            "⚡ FastAPI"      : "Production-style services with Docker & Redis",
+            "💳 Payments"    : "Razorpay gateway integration in e-commerce",
+            "☁️ Deployment"  : "Shipping apps on Railway / Render",
+            "📊 Algorithms"  : "Kahn's topological sort for learning paths",
         }
 ```
 
@@ -70,9 +72,10 @@ class SamikshaApake:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
@@ -86,9 +89,9 @@ class SamikshaApake:
 |---|---|
 | **API Design** | REST API Design · DRF Serializers · ViewSets · Routers |
 | **Auth & Security** | JWT Authentication · Session Management · Role-Based Access Control |
-| **Database** | Schema Design · Django ORM · Query Optimisation · ForeignKey Relations |
-| **Integrations** | Razorpay Payment Gateway · Gemini AI API · Cloudinary |
-| **Architecture** | MVT Pattern · Multi-App Django Projects · Modular Codebase Design |
+| **Database** | Schema Design · Django ORM · SQLAlchemy · Alembic Migrations |
+| **Integrations** | Razorpay · Gemini AI API · Redis Caching |
+| **Architecture** | MVT Pattern · Multi-App Django Projects · Dockerized Services |
 | **Algorithms** | Kahn's Topological Sort · Collaborative Filtering · Adaptive Difficulty Profiling |
 
 ---
@@ -99,34 +102,66 @@ class SamikshaApake:
 <tr>
 <td width="50%" valign="top">
 
-### PrepEdge — Interview Preparation Platform
-> `Django` `Python` `MySQL` `Bootstrap` `Gemini API`
+### SecureLink
+> `FastAPI` `Docker` `Redis` `MySQL` `JWT`
 
-A multi-app platform for technical interview preparation with AI-powered coaching and intelligent learning paths.
+Production-style URL shortener with token-based authentication and caching.
 
 **Engineering Highlights:**
-- **Kahn's Algorithm** — topological sort for dependency-aware learning paths
-- **Adaptive difficulty profiling** — adjusts question difficulty from quiz performance
-- **Gemini AI Interview Coach** — real-time interview simulation
-- Analytics dashboard: weak-area detection, accuracy trends
-- 13 learning modules · MCQ engine · timed quizzes
+- JWT authentication with secure token handling
+- **Redis caching** for fast redirect lookups
+- SQLAlchemy + **Alembic migrations**
+- Fully **Dockerized** with MySQL backend
 
-[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/Subscription-Based-Content-Platform)
+[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/fastapi-secure-url-shortener)
 
 </td>
 <td width="50%" valign="top">
 
-### BiblioCart — Book E-Commerce Platform
+### PrepEdge — Interview Prep Platform
+> `Django` `Python` `MySQL` `Bootstrap`
+
+A multi-app platform for technical interview preparation with intelligent learning paths.
+
+**Engineering Highlights:**
+- **Kahn's Algorithm** — topological sort for dependency-aware learning paths
+- **Adaptive difficulty profiling** from quiz performance
+- Analytics dashboard: weak-area detection, accuracy trends
+- MCQ engine · timed quizzes · subscription access control
+
+[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/Subscription-Based-Content-Platform)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### BiblioCart — Book E-Commerce
 > `Django` `DRF` `MySQL` `Razorpay` `Gemini API`
 
-Full-featured book store with smart recommendations, AI chatbot assistant, and integrated payment processing.
+Full-featured book store with smart recommendations and an AI chatbot.
 
 **Engineering Highlights:**
 - **Razorpay payment gateway** — end-to-end secure transactions
-- **Smart recommendations** — collaborative filtering + trending + purchase history
-- **Gemini chatbot** with session memory for contextual book discovery
+- **Collaborative filtering** recommendations
+- **Gemini chatbot** for contextual book discovery
 - DRF REST APIs for cart, orders, and user management
-- Invoice download · wishlist · custom template filters
+
+[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702)
+
+</td>
+<td width="50%" valign="top">
+
+### Appointment Booking System
+> `Django` `Python` `MySQL` `HTML` `CSS`
+
+Role-based appointment management platform with conflict prevention.
+
+**Engineering Highlights:**
+- **Double-booking prevention** via Django ORM constraints
+- Role-based admin and user dashboards
+- Soft-cancel with status tracking
+- ForeignKey relational models
 
 [![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702)
 
@@ -135,16 +170,15 @@ Full-featured book store with smart recommendations, AI chatbot assistant, and i
 <tr>
 <td width="50%" valign="top">
 
-### Appointment Booking System
-> `Django` `Python` `MySQL` `HTML` `CSS`
+### InkDrop — Django Blog
+> `Django` `Auth` `CRUD`
 
-Role-based appointment management platform with conflict prevention and audit-ready tracking.
+Full-featured blog platform with social features.
 
 **Engineering Highlights:**
-- **Double-booking prevention** via Django ORM constraints
-- Role-based interfaces — admin and user dashboards
-- Soft-cancel with status tracking (Booked / Completed / Cancelled)
-- ForeignKey relational models with cascading deletes
+- Auth, comments, likes, and bookmarks
+- **Follow system** between users
+- Modular Django app structure
 
 [![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702)
 
@@ -155,10 +189,9 @@ Role-based appointment management platform with conflict prevention and audit-re
 
 ```python
 next_up = {
-  "Deployment"    : "Railway / Render live demos",
-  "RAG Pipeline"  : "LangChain + vector search",
-  "WebSockets"    : "real-time notifications",
-  "Docker"        : "containerised Django apps",
+  "Deployment"   : "Railway / Render live demos",
+  "WebSockets"   : "real-time notifications",
+  "Testing"      : "deeper Pytest coverage",
 }
 ```
 
@@ -172,7 +205,16 @@ Actively committing — follow along for updates.
 
 ---
 
+## `>>> github_stats`
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=samiksha-2702&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samiksha-2702&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+---
 
 ## `>>> achievements`
 
@@ -181,7 +223,7 @@ Actively committing — follow along for updates.
 | Achievement | Detail |
 |---|---|
 | Academic Excellence | BCA CGPA **9.16 / 10** — Bharati Vidyapeeth University |
-| AI Integration | Integrated Gemini API into production-style Django applications |
+| Production Engineering | Built **SecureLink** with Docker, Redis, and JWT auth |
 | Graph Algorithms | Implemented Kahn's topological sort inside a real product |
 | Payment Systems | Built end-to-end Razorpay payment flow in an e-commerce platform |
 | API Development | Designed and consumed DRF REST APIs with JWT authentication |
@@ -195,14 +237,14 @@ Actively committing — follow along for updates.
 ```
 Certifications
 ──────────────────────────────────────────────────────────
-[✓]  Python Backend Development  —  Django · FastAPI · DB Integration  (2026)
+[✓]  Python Backend Development  —  Django · FastAPI · DB Integration
 [✓]  AWS Academy  —  Introduction to Cloud Computing
 [✓]  Java Programming  —  Core Java Fundamentals
 
 Education
 ──────────────────────────────────────────────────────────
 MCA   Sinhgad Institute of Management, Pune          2024 – 2026
-BCA   Bharati Vidyapeeth University, Kolhapur        2020 – 2023  |  CGPA 9.16
+BCA   Bharati Vidyapeeth University, Kolhapur         2020 – 2023  |  CGPA 9.16
 ```
 
 ---
@@ -225,7 +267,5 @@ BCA   Bharati Vidyapeeth University, Kolhapur        2020 – 2023  |  CGPA 9.16
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=100&section=footer" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=samiksha-2702&color=38bdf8&style=flat-square&label=Profile+Views"/>
 
 </div>
