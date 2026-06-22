@@ -63,8 +63,6 @@ class SamikshaApake:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
@@ -80,9 +78,9 @@ class SamikshaApake:
 |---|---|
 | **API Design** | REST API Design · DRF Serializers · ViewSets · Routers |
 | **Auth & Security** | JWT Authentication · Session Management · Role-Based Access Control |
-| **Database** | Schema Design · Django ORM · SQLAlchemy · Alembic Migrations |
-| **Integrations** | Razorpay · Gemini AI API · Redis Caching |
-| **Architecture** | MVT Pattern · Multi-App Django Projects · Dockerized Services |
+| **Database** | Schema Design · Django ORM |
+| **Integrations** | Razorpay · Gemini AI API |
+| **Architecture** | MVT Pattern · Multi-App Django Projects |
 | **Algorithms** | Kahn's Topological Sort · Collaborative Filtering · Adaptive Difficulty Profiling |
 
 ---
@@ -91,22 +89,6 @@ class SamikshaApake:
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### SecureLink
-> `FastAPI` `Docker` `Redis` `MySQL` `JWT`
-
-Production-style URL shortener with token-based authentication and caching.
-
-**Engineering Highlights:**
-- JWT authentication with secure token handling
-- **Redis caching** for fast redirect lookups
-- SQLAlchemy + **Alembic migrations**
-- Fully **Dockerized** with MySQL backend
-
-[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/fastapi-secure-url-shortener)
-
-</td>
 <td width="50%" valign="top">
 
 ### PrepEdge — Interview Prep Platform
