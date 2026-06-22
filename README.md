@@ -36,15 +36,6 @@ class SamikshaApake:
     status      = "Seeking backend and full-stack development opportunities"
     open_to     = ["Backend Developer", "Full-Stack Developer", "Python Developer"]
 
-    # ── Currently Building ────────────────────────────────────────────
-    def current_focus(self):
-        return {
-            "📦 REST APIs"   : "DRF-powered APIs with JWT authentication",
-            "⚡ FastAPI"      : "Production-style services with Docker & Redis",
-            "💳 Payments"    : "Razorpay gateway integration in e-commerce",
-            "☁️ Deployment"  : "Shipping apps on Railway / Render",
-            "📊 Algorithms"  : "Kahn's topological sort for learning paths",
-        }
 ```
 
 ---
