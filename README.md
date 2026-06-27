@@ -17,6 +17,16 @@
 
 ---
 
+## 👋 About Me
+
+Backend Developer with hands-on experience in Python, Django, Django REST Framework, FastAPI, and SQL. Built full-stack web applications, REST APIs, AI-powered platforms using Google Gemini AI, and secure payment integrations with Razorpay.
+
+Focused on writing clean, maintainable backend code and continuously improving my skills in Docker, Redis, PostgreSQL, API performance, and scalable backend architecture.
+
+🚀 Open to Backend Developer, Python Developer, and Full-Stack Developer opportunities.
+
+---
+
 ## `>>> whoami`
 
 ```python
