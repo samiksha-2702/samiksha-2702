@@ -112,7 +112,7 @@ A multi-app platform for technical interview preparation with intelligent learni
 - Analytics dashboard: weak-area detection, accuracy trends
 - MCQ engine · timed quizzes · subscription access control
 
-[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/Subscription-Based-Content-Platform)
+[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/Prepedge-Subscription-Based-Interview-Prepration-Platform)
 
 </td>
 </tr>
@@ -130,7 +130,7 @@ Full-featured book store with smart recommendations and an AI chatbot.
 - **Gemini chatbot** for contextual book discovery
 - DRF REST APIs for cart, orders, and user management
 
-[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702)
+[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/BookStore)
 
 </td>
 <td width="50%" valign="top">
@@ -146,7 +146,7 @@ Role-based appointment management platform with conflict prevention.
 - Soft-cancel with status tracking
 - ForeignKey relational models
 
-[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702)
+[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/Appointment-Booking-system)
 
 </td>
 </tr>
@@ -163,7 +163,7 @@ Full-featured blog platform with social features.
 - **Follow system** between users
 - Modular Django app structure
 
-[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702)
+[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/django-blog)
 
 </td>
 <td width="50%" valign="top">
