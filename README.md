@@ -62,12 +62,16 @@ class SamikshaApake:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<br/>
+
 **Frameworks & Libraries**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br/>
 
 **Databases & Tools**
 
@@ -104,69 +108,46 @@ class SamikshaApake:
 ### PrepEdge — Interview Prep Platform
 > `Django` `Python` `MySQL` `Bootstrap`
 
-A multi-app platform for technical interview preparation with intelligent learning paths.
-
-**Engineering Highlights:**
-- **Kahn's Algorithm** — topological sort for dependency-aware learning paths
-- **Adaptive difficulty profiling** from quiz performance
-- Analytics dashboard: weak-area detection, accuracy trends
-- MCQ engine · timed quizzes · subscription access control
+Subscription-based platform with adaptive quizzes and Kahn's-algorithm-driven learning paths.
 
 [![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/Prepedge-Subscription-Based-Interview-Prepration-Platform)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### BiblioCart — Book E-Commerce
 > `Django` `DRF` `MySQL` `Razorpay` `Gemini API`
 
-Full-featured book store with smart recommendations and an AI chatbot.
-
-**Engineering Highlights:**
-- **Razorpay payment gateway** — end-to-end secure transactions
-- **Collaborative filtering** recommendations
-- **Gemini chatbot** for contextual book discovery
-- DRF REST APIs for cart, orders, and user management
+Book store with Razorpay payments, collaborative-filtering recommendations, and a Gemini-powered chatbot.
 
 [![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/BookStore)
-
-</td>
-<td width="50%" valign="top">
-
-### Appointment Booking System
-> `Django` `Python` `MySQL` `HTML` `CSS`
-
-Role-based appointment management platform with conflict prevention.
-
-**Engineering Highlights:**
-- **Double-booking prevention** via Django ORM constraints
-- Role-based admin and user dashboards
-- Soft-cancel with status tracking
-- ForeignKey relational models
-
-[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/Appointment-Booking-system)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+### Appointment Booking System
+> `Django` `Python` `MySQL` `HTML` `CSS`
+
+Role-based booking platform with double-booking prevention and soft-cancel tracking.
+
+[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/Appointment-Booking-system)
+
+</td>
+<td width="50%" valign="top">
+
 ### InkDrop — Django Blog
 > `Django` `Auth` `CRUD`
 
-Full-featured blog platform with social features.
-
-**Engineering Highlights:**
-- Auth, comments, likes, and bookmarks
-- **Follow system** between users
-- Modular Django app structure
+Blog platform with comments, likes, bookmarks, and a follow system.
 
 [![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/django-blog)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### On the Roadmap
 
