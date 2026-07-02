@@ -19,11 +19,11 @@
 
 ## 👋 About Me
 
-Backend Developer with hands-on experience in Python, Django, Django REST Framework, FastAPI, and SQL. Built full-stack web applications, REST APIs, AI-powered platforms using Google Gemini AI, and secure payment integrations with Razorpay.
+Backend developer building multi-app Django platforms — user authentication, subscription-based access control, dynamic dashboards, and data analytics — alongside REST APIs in Django REST Framework and FastAPI. Comfortable across the full stack: AI integrations with Google Gemini, payment flows with Razorpay, and containerized services with Docker and Redis.
 
-Focused on writing clean, maintainable backend code and continuously improving my skills in Docker, Redis, PostgreSQL, API performance, and scalable backend architecture.
+Solid foundation in OOP, MVT architecture, and relational database design. Currently finishing my MCA and actively looking for a backend/full-stack role where I can put these skills to work on a real product.
 
-🚀 Open to Backend Developer, Python Developer, and Full-Stack Developer opportunities.
+🚀 Open to **Backend Developer**, **Python Developer**, and **Full-Stack Developer** roles — remote, hybrid, or Pune-based.
 
 ---
 
@@ -45,7 +45,7 @@ class SamikshaApake:
     # ── Career ────────────────────────────────────────────────────────
     status      = "Seeking backend and full-stack development opportunities"
     open_to     = ["Backend Developer", "Full-Stack Developer", "Python Developer"]
-
+    currently_building = "SecureLink — FastAPI URL shortener (Redis, Docker, JWT)"
 ```
 
 ---
@@ -73,10 +73,12 @@ class SamikshaApake:
 
 <br/>
 
-**Databases & Tools**
+**Databases, Infra & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
@@ -90,11 +92,12 @@ class SamikshaApake:
 
 | Area | Skills |
 |---|---|
-| **API Design** | REST API Design · DRF Serializers · ViewSets · Routers |
-| **Auth & Security** | JWT Authentication · Session Management · Role-Based Access Control |
-| **Database** | Schema Design · Django ORM |
+| **API Design** | REST API Design · DRF Serializers · ViewSets · Routers · FastAPI path/dependency injection |
+| **Auth & Security** | JWT Authentication (Simple JWT) · Session Management · Role-Based Access Control · Subscription-Gated Access |
+| **Database** | Schema Design · Django ORM · SQLAlchemy · Alembic Migrations |
 | **Integrations** | Razorpay · Gemini AI API |
-| **Architecture** | MVT Pattern · Multi-App Django Projects |
+| **Architecture** | MVT Pattern · Multi-App Django Projects · Config Splitting via `python-decouple` |
+| **Testing & Deployment** | Django Test Suite · Render (`Procfile` / `build.sh`) · Docker |
 | **Algorithms** | Kahn's Topological Sort · Collaborative Filtering · Adaptive Difficulty Profiling |
 
 ---
@@ -106,9 +109,9 @@ class SamikshaApake:
 <td width="50%" valign="top">
 
 ### PrepEdge — Interview Prep Platform
-> `Django` `Python` `MySQL` `Bootstrap`
+> `Django` `Python` `MySQL` `Bootstrap` `Razorpay`
 
-Subscription-based platform with adaptive quizzes and Kahn's-algorithm-driven learning paths.
+Subscription-based platform with adaptive quizzes, Kahn's-algorithm-driven learning paths, and an AI recommendations engine.
 
 [![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/Prepedge-Subscription-Based-Interview-Prepration-Platform)
 
@@ -128,9 +131,9 @@ Book store with Razorpay payments, collaborative-filtering recommendations, and 
 <td width="50%" valign="top">
 
 ### Appointment Booking System
-> `Django` `Python` `MySQL` `HTML` `CSS`
+> `Django` `DRF` `Simple JWT` `MySQL`
 
-Role-based booking platform with double-booking prevention and soft-cancel tracking.
+Role-based booking platform with double-booking prevention, JWT-secured API layer, and 26 automated tests.
 
 [![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/Appointment-Booking-system)
 
@@ -140,7 +143,7 @@ Role-based booking platform with double-booking prevention and soft-cancel track
 ### InkDrop — Django Blog
 > `Django` `Auth` `CRUD`
 
-Blog platform with comments, likes, bookmarks, and a follow system.
+Blog platform with categories, tags, comments, likes, bookmarks, and a follow system.
 
 [![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/django-blog)
 
@@ -149,27 +152,33 @@ Blog platform with comments, likes, bookmarks, and a follow system.
 <tr>
 <td colspan="2" valign="top">
 
-### On the Roadmap
+### SecureLink — FastAPI URL Shortener
+> `FastAPI` `Redis` `Docker` `JWT` `SQLAlchemy` `Alembic`
 
-```python
-next_up = {
-  "Deployment"   : "Railway / Render live demos",
-  "WebSockets"   : "real-time notifications",
-  "Testing"      : "deeper Pytest coverage",
-}
-```
+Production-style URL shortener with a freshly redesigned frontend, JWT auth, and Redis-backed caching — containerized for deployment.
 
-Actively committing — follow along for updates.
-
-[![Follow](https://img.shields.io/github/followers/samiksha-2702?label=Follow&style=for-the-badge&logo=github&color=0ea5e9)](https://github.com/samiksha-2702)
+[![View Repo](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/samiksha-2702/fastapi-secure-url-shortener)
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+[![More Projects](https://img.shields.io/badge/View_All_Repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiksha-2702?tab=repositories)
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
+
+<!--
+  NOTE: swap SELF_HOSTED_STATS_URL below with your own Vercel deployment
+  of the github-readme-stats fork once it's live — the public
+  github-readme-stats.vercel.app instance is what's been giving you
+  broken/rate-limited cards. Send me the URL and I'll wire it in.
+-->
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=samiksha-2702&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=0ea5e9&text_color=1f2937&rank_icon=github"/>
@@ -178,6 +187,10 @@ Actively committing — follow along for updates.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=samiksha-2702&theme=default&hide_border=true&background=00000000&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samiksha-2702&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 </p>
 
 ---
@@ -190,9 +203,10 @@ Actively committing — follow along for updates.
 |---|---|
 | Academic Excellence | BCA CGPA **9.16 / 10** — Bharati Vidyapeeth University |
 | Production Engineering | Built **SecureLink** with Docker, Redis, and JWT auth |
+| Test Coverage | Wrote **26 automated tests** for the Appointment Booking System |
 | Graph Algorithms | Implemented Kahn's topological sort inside a real product |
 | Payment Systems | Built end-to-end Razorpay payment flow in an e-commerce platform |
-| API Development | Designed and consumed DRF REST APIs with JWT authentication |
+| API Development | Designed and consumed DRF/FastAPI REST APIs with JWT authentication |
 
 </div>
 
