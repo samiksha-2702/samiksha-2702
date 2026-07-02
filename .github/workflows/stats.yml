@@ -1,0 +1,2 @@
+exclude_repos: ""      # comma-separated repo names to leave out of stats, e.g. "old-repo,test-project"
+exclude_langs: ""      # comma-separated languages to leave out, e.g. "HTML,CSS"
