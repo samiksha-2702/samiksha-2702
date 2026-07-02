@@ -169,21 +169,13 @@ Actively committing — follow along for updates.
 
 ---
 
-## `>>> github_stats`
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=samiksha-2702&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  width="48%"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=samiksha-2702&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  width="48%"
-/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samiksha-2702&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img  src="https://streak-stats.demolab.com?user=samiksha-2702&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  width="48%" height="180"/>
+</p>
 
 ---
 
