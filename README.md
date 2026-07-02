@@ -173,25 +173,18 @@ Production-style URL shortener with a freshly redesigned frontend, JWT auth, and
 
 ## 📊 GitHub Stats
 
-<!--
-  NOTE: swap SELF_HOSTED_STATS_URL below with your own Vercel deployment
-  of the github-readme-stats fork once it's live — the public
-  github-readme-stats.vercel.app instance is what's been giving you
-  broken/rate-limited cards. Send me the URL and I'll wire it in.
--->
-
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=samiksha-2702&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=0ea5e9&text_color=1f2937&rank_icon=github"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-2702&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0ea5e9&text_color=1f2937"/>
+  <img height="200em" src="https://raw.githubusercontent.com/samiksha-2702/github-stats/generated/overview.svg" alt="GitHub Overview"/>
+  <img height="200em" src="https://raw.githubusercontent.com/samiksha-2702/github-stats/generated/languages.svg" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samiksha-2702&theme=default&hide_border=true&background=00000000&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9"/>
+  <img src="https://streak-stats.demolab.com?user=samiksha-2702&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samiksha-2702&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-</p>
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samiksha-2702&theme=onestar&column=4" alt="GitHub Trophies"/>
+</p> -->
 
 ---
 
