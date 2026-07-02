@@ -172,9 +172,12 @@ Actively committing — follow along for updates.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samiksha-2702&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img  src="https://streak-stats.demolab.com?user=samiksha-2702&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  width="48%" height="180"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=samiksha-2702&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=0ea5e9&text_color=1f2937&rank_icon=github"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-2702&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0ea5e9&text_color=1f2937"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samiksha-2702&theme=default&hide_border=true&background=00000000&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9"/>
 </p>
 
 ---
