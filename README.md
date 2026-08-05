@@ -6,6 +6,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-samiksha--apake.netlify.app-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://samiksha-apake.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samikshaapake04)
 [![GitHub](https://img.shields.io/badge/GitHub-samiksha--2702-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiksha-2702)
 [![Gmail](https://img.shields.io/badge/Gmail-samikshaapake@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samikshaapake@gmail.com)
@@ -37,6 +38,7 @@ class SamikshaApake:
     role        = "Python / Django Backend Developer"
     location    = "Pune, Maharashtra, India"
     contact     = "samikshaapake@gmail.com"
+    portfolio   = "https://samiksha-apake.netlify.app/"
 
     # ── Education ─────────────────────────────────────────────────────
     masters     = "MCA  @  Sinhgad Institute of Management, Pune   (2024–2026)"
@@ -228,6 +230,7 @@ BCA   Bharati Vidyapeeth University, Kolhapur         2020 – 2023  |  CGPA 9.1
 
 **Let's build something together**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://samiksha-apake.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samikshaapake04)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiksha-2702)
 [![Gmail](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samikshaapake@gmail.com)
