@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Python+%26+Django+Backend+Developer;REST+API+%26+DRF+Specialist;FastAPI+%7C+Docker+%7C+Redis;MCA+2026+%7C+Seeking+Backend+Opportunities;Building+Scalable+Web+Platforms)](https://git.io/typing-svg)
 
+
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-samiksha--apake.netlify.app-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://samiksha-apake.netlify.app/)
