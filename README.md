@@ -245,4 +245,3 @@ BCA   Bharati Vidyapeeth University, Kolhapur         2020 – 2023  |  CGPA 9.1
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
-
