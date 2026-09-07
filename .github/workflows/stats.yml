@@ -1,2 +1,22 @@
-exclude_repos: ""      # comma-separated repo names to leave out of stats, e.g. "old-repo,test-project"
-exclude_langs: ""      # comma-separated languages to leave out, e.g. "HTML,CSS"
+# exclude_repos: ""      # comma-separated repo names to leave out of stats, e.g. "old-repo,test-project"
+# exclude_langs: ""      # comma-separated languages to leave out, e.g. "HTML,CSS"
+
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: samiksha-2702
