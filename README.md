@@ -155,6 +155,7 @@ Blog platform with categories, tags, comments, likes, bookmarks, and a follow sy
 <tr>
 <td colspan="2" valign="top">
 
+
 ### SecureLink — FastAPI URL Shortener
 > `FastAPI` `Redis` `Docker` `JWT` `SQLAlchemy` `Alembic`
 
