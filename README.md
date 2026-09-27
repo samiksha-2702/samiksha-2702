@@ -29,7 +29,7 @@ Solid foundation in OOP, MVT architecture, and relational database design. Curre
 
 ---
 
-## `>>> whoami`
+<!-- ## `>>> whoami`
 
 ```python
 class SamikshaApake:
@@ -51,7 +51,7 @@ class SamikshaApake:
     currently_building = "SecureLink — FastAPI URL shortener (Redis, Docker, JWT)"
 ```
 
----
+--- -->
 
 ## `>>> tech_stack`
 
