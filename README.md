@@ -161,3 +161,7 @@ Bharati Vidyapeeth Deemed to be University, Pune
 **GitHub:** [github.com/samiksha-2702](https://github.com/samiksha-2702)
 
 **Email:** [samikshaapake@gmail.com](mailto:samikshaapake@gmail.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samiksha-2702&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
