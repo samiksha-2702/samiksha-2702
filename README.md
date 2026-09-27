@@ -33,84 +33,102 @@ OOP · MVT Architecture · REST API Design · JWT Authentication · CRUD · ORM 
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 📚 BiblioCart
 
-A Django-based online bookstore with REST APIs, authentication,
-cart and wishlist management, order processing, payment integration,
-and a Gemini-powered book assistant.
+Django-based online bookstore with REST APIs, authentication,
+cart and wishlist management, orders, payments, and a
+Gemini-powered book assistant.
 
-**Tech:** Python · Django · DRF · JWT · MySQL/PostgreSQL · Razorpay · Gemini
+**Tech:**  
+`Python` `Django` `DRF` `JWT` `Razorpay` `Gemini`
 
 **Highlights**
-- User authentication and authorization
-- Book search, filtering, and pagination
-- Cart and wishlist management
-- Order and invoice management
-- Razorpay payment integration
-- REST APIs using Django REST Framework
-- Gemini-powered book assistant
+- Authentication & authorization
+- Search, filtering & pagination
+- Cart & wishlist
+- Orders & invoices
+- Razorpay integration
+- REST APIs
 
 🔗 [View Repository](https://github.com/samiksha-2702/Bibliocart-Django-Online-BookStore)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🔐 SecureLink
 
-A backend-focused URL shortener built while learning
+Backend-focused URL shortener built while learning
 FastAPI and modern backend concepts.
 
-**Tech:** Python · FastAPI · MySQL · Redis · Docker · JWT
+**Tech:**  
+`Python` `FastAPI` `MySQL` `Redis` `Docker` `JWT`
 
 **Highlights**
-- URL shortening and redirection
-- JWT-based authentication
+- URL shortening & redirection
+- JWT authentication
 - Redis caching
 - Rate limiting
 - MySQL database
-- Docker-based development environment
+- Docker development environment
 
 > A learning project built to explore FastAPI and backend architecture.
 
 🔗 [View Repository](https://github.com/samiksha-2702/SecureLink)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 📅 Appointment Booking API
 
-A Django REST API for managing healthcare appointments.
+Django REST API for managing healthcare appointments.
 
-**Tech:** Python · Django · DRF · MySQL · JWT
+**Tech:**  
+`Python` `Django` `DRF` `MySQL` `JWT`
 
 **Highlights**
 - User authentication
 - Doctor management
-- Appointment creation and management
-- Appointment rescheduling and cancellation
+- Appointment CRUD
+- Rescheduling & cancellation
 - Double-booking prevention
 - REST API development
 
 🔗 [View Repository](https://github.com/samiksha-2702/Django-Appointment-Booking-system)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎯 PrepEdge
 
-A subscription-based interview preparation platform built with Django.
+Subscription-based interview preparation platform built
+with Django, featuring personalized recommendations and
+a Gemini-powered AI coach.
 
-The platform provides structured learning content, performance-based
-recommendations, and an AI coach for interview preparation.
-
-**Tech:** Python · Django · MySQL · Razorpay · Gemini
+**Tech:**  
+`Python` `Django` `MySQL` `Razorpay` `Gemini`
 
 **Highlights**
 - Subscription-based content
-- Razorpay payment integration
+- Razorpay integration
 - Learning modules
 - Performance tracking
-- Rule-based personalized recommendations
-- Gemini-powered AI coach
+- Rule-based recommendations
+- Gemini AI coach
 
 🔗 [View Repository](https://github.com/samiksha-2702/Prepedge-Subscription-Based-Interview-Prepration-Platform)
+
+</td>
+</tr>
+</table>
 
 ---
 
