@@ -5,10 +5,10 @@
 I build backend applications and REST APIs using **Python and Django**.
 
 I have hands-on experience with authentication, database design, CRUD operations,
-REST APIs, payment integrations, and third-party service integrations.
+REST APIs, **Razorpay payment integration, and Gemini API integration**.
 
-Currently strengthening my backend development skills and learning testing,
-Docker, Redis, CI/CD, AWS, and GenAI application development.
+<!-- Currently strengthening my backend development skills and learning testing,
+Docker, Redis, CI/CD, AWS, and GenAI application development. -->
 
 ---
 
@@ -132,7 +132,7 @@ a Gemini-powered AI coach.
 
 ---
 
-## 📖 Currently Learning
+<!-- ## 📖 Currently Learning
 
 - Pytest
 - Docker
@@ -142,7 +142,7 @@ a Gemini-powered AI coach.
 - FastAPI
 - GenAI / LLM Applications
 
----
+--- -->
 
 ## 🎓 Education
 
